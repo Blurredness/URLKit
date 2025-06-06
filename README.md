@@ -28,9 +28,12 @@ URLKit is a lightweight, terminal-based Python toolkit designed for analyzing UR
 
 
 ---
-
-| | | |  _ | |   | |/ () | | | | | |) | |   | ' /| | __| | || |  _ <| || . | | | _/|| ___||__|_|
-
+ _   _ ____  _     _  ___ _
+| | | |  _ \| |   | |/ (_) |_
+| | | | |_) | |   | ' /| | __|
+| |_| |  _ <| |___| . \| | |_
+ \___/|_| \_\_____|_|\_\_|\__|
+ 
 Made by Blurredness / PA3MblTOCTb
 
 ---
@@ -39,9 +42,16 @@ Made by Blurredness / PA3MblTOCTb
 
 ```bash
 git clone https://github.com/Blurredness/URLKit
+```
+```bash
 cd URLKit
+```
+```bash
 pip install -r requirements.txt
+```
+```bash
 python URLKit.py
+```
 
 
 ---
