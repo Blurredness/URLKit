@@ -1,5 +1,10 @@
 # URLKit
 
+<p align="center">
+  <img src="assets/menu.png" alt="Handle Sweep Banner" width="100%">
+</p>
+
+
 ### 🛠 A powerful multi-tool for URL, domain, and OSINT analysis
 
 URLKit is a lightweight, terminal-based Python toolkit designed for analyzing URLs, domains, redirects, emails, meta-data, admin panels, and more — using multiple techniques including WHOIS, port scanning, global reach testing, and structured search queries.
