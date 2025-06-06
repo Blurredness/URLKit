@@ -81,7 +81,8 @@ Python 3.8+
 
 📩 Contact
 
-Telegram: @Blurredness
+TGC     : @Blurredness
+Bot     : @RAZMITOCT_bot
 Language: Russian only
 
 
