@@ -87,11 +87,18 @@ Language: Russian only
 
 ---
 
-🛡 Disclaimer
 
-> This tool is created for educational and OSINT research only.
-Use it responsibly and legally.
+## 🛡 Disclaimer
 
+This tool is created **strictly for educational, research, and legal OSINT (Open Source Intelligence) purposes only**.
+
+- The author does **not condone** or support any form of illegal activity.
+- You are solely responsible for how you use this tool and the data it produces.
+- All features and checks included are designed for use on **domains and URLs you own, are authorized to test, or are public by nature**.
+- Any misuse of this software to target unauthorized websites, individuals, or systems **may violate laws in your country** and could lead to civil or criminal consequences.
+- By using this tool, you agree that the author assumes **no liability** for your actions or any damage caused, directly or indirectly.
+
+> Always obtain proper permission before testing or investigating any third-party resources.
 
 
 ---
