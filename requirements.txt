@@ -1,0 +1,6 @@
+requests
+colorama
+pystyle
+qrcode
+whois
+beautifulsoup4
