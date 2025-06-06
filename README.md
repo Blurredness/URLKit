@@ -61,7 +61,7 @@ python URLKit.py
 
 No API keys required
 
-All searches run anonymously
+All searches run anonymously and safe
 
 Designed for educational and ethical research only
 
