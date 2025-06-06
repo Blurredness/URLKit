@@ -1,7 +1,7 @@
 # URLKit
 
 <p align="center">
-  <img src="assets/menu.png" alt="Handle Sweep Banner" width="100%">
+  <img src="assets/menu.png" alt="URLKit Banner" width="100%">
 </p>
 
 
