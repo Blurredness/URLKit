@@ -28,6 +28,7 @@ URLKit is a lightweight, terminal-based Python toolkit designed for analyzing UR
 
 
 ---
+```
  _   _ ____  _     _  ___ _
 | | | |  _ \| |   | |/ (_) |_
 | | | | |_) | |   | ' /| | __|
@@ -35,7 +36,7 @@ URLKit is a lightweight, terminal-based Python toolkit designed for analyzing UR
  \___/|_| \_\_____|_|\_\_|\__|
  
 Made by Blurredness / PA3MblTOCTb
-
+```
 ---
 
 ## 🚀 Usage
