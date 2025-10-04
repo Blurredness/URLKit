@@ -123,8 +123,6 @@ def banner():
  \___/|_| \_\_____|_|\_\_|\__|
 
 Made by Blurredness/PA3MblTOCTb
-TGC: t.me/Blurredness (russian language only)
-Use VPN for security and less blockings
 Enjoy <3
 """
     print(Colorate.Horizontal(Colors.blue_to_purple, Center.XCenter(text)))
